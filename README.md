@@ -7,5 +7,5 @@ This project was made specifically for my college assignment, it can calculate a
 
 Very simple to use, only requirement is creating a text file named "attendance_data" which will be storing the data after intial run of the code.
 
-will try hosting this as an application or website soon.
-
+use the .exe file created by Visual studio code etc. for a better experience.
+will try hosting this as an application or website later on (indefinite time)
